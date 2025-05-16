@@ -1,0 +1,4 @@
+# 제외 폴더
+**/.ipynb_checkpoints/
+**/.virtual_documents/
+**/anaconda_projects/
